@@ -1,0 +1,16 @@
+{
+  "xx": "ru",
+  "xx-XX": "ru-RU",
+
+  "XXX": "Русский",
+  "XXXX": "Русский язык",
+
+  "sitename": {
+    "title": "Bosa Noga",
+    "inner": "Диплом"
+  },
+
+  "notSupported": {
+    "any": "Не поддерживается в текущей версии"
+  }
+}
